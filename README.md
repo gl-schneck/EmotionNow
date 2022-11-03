@@ -1,6 +1,10 @@
 # EmotionNow
 Produto tem como alvo prinicipal os jogadores de Esports e tem o intuito de  analisar o estresse e criar medidas para solucionar o mesmo.
 
+#Funcionalidades:
+
+-Medidor de estresse em tempo real
+-
 
 colaboradores:
 Aécio Laurentino
