@@ -16,6 +16,7 @@ Hugo Campelo
 Joao Luis
 Matheus Lins
 Pedro Coutinho
+Thiago Belo
 
 #tecnologias utilizadas:
 VS code
